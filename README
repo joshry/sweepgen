@@ -1,3 +1,4 @@
-1. Edit input.txt for array definition
-2. Edit gendoe.sh for the paths of java, comsol and this package.
-3. run gendoe.sh
+1. Copy the mph template file into folder that includes input.txt and sweepgen
+2. Edit input.txt for array definition
+3. Edit gendoe.sh for the paths of java, comsol and this package.
+4. run gendoe.sh
