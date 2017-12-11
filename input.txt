@@ -1,0 +1,9 @@
+test.mph
+foldername
+all
+param1
+nm
+50 100
+param2
+nm
+5 10
